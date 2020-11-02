@@ -2,6 +2,9 @@ Welcome to Git
 Java
 Python
 Javascript
+Appium
+Selenium
+Sql
 
 
 
